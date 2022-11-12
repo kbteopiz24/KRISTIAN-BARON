@@ -1,0 +1,222 @@
+body{
+	background-image: url(themebackground.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.b1 {
+  background-image: url(https://trueviewvisuals.com/wp-content/uploads/2013/03/background-1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.b2 {
+  background-image: url(https://th.bing.com/th/id/OIP.mTBTwwyOZIScf5tceBXHVwHaHa?pid=ImgDet&rs=1);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.b3 {
+  background-image: url(https://s3.envato.com/files/165342702/5.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.b4 {
+  background-image: url(https://pclosmag.com/html/Issues/201502/images/page02/Background3.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.b5 {
+  background-image: url(https://cdn.wallpapersafari.com/88/42/jp4Vei.gif);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+.image1 {
+	padding top: 100px;
+        /*min-height: 100px;
+        min-width: 100px;*/ 
+        height: 250px;
+        width: 200px;
+}
+.image2 {
+	padding top: 100px;
+        /*min-height: 100px;
+        min-width: 100px;*/ 
+        height: 250px;
+        width: 200px;
+}
+.image3 {
+	padding top: 100px;
+        /*min-height: 100px;
+        min-width: 100px;*/ 
+        height: 250px;
+        width: 200px;
+}
+.image4 {
+ padding top: 100px;
+        /*min-height: 100px;
+        min-width: 100px;*/ 
+        height: 250px;
+        width: 200px;
+}
+.image5 {
+  padding top: 100px;
+        /*min-height: 100px;
+        min-width: 100px;*/ 
+        height: 250px;
+        width: 200px;
+}
+img:hover {
+        transition: transform .5s;
+        transform: scale(1.5);
+      }
+nav {
+       overflow: hidden;
+       background: rgb(0, 0,0);
+       background: rgba(0, 0, 0, 0);
+      }
+      nav a {
+        float: left;
+        color: #464141;
+        padding: 15px 20px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 20px;
+        font-family: monospace;
+      }
+      nav a:hover {
+        background-color: darkgray;
+        color: black;
+      }
+h1 {
+  text-align: center;
+  color: black;
+  font-style: monospace;
+
+}
+h2{
+  text-align: center;
+  color: black;
+  font-style: monospace;
+  background: rgb(0, 0, 0, 0.2);
+  border: 5px solid white;
+  border: 10px;
+  border-radius: 20px;
+}
+h3 {
+  text-align: center;
+  color: black;
+  font-style: monospace;
+}
+.p1 {
+  font-family: monospace;
+  font-size: 110%;
+   background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+  border-radius: 20px;
+    margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}     
+.p2 {
+    font-family: monospace;
+    font-size: 110%;
+     background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+     margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}     
+.p3 {
+    font-family: monospace;
+    font-size: 110%;
+     background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+      margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}     
+.p4 {
+    font-family: monospace;
+    font-size: 110%;
+     background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+     margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+.pE {
+    font-family: monospace;
+    font-size: 130%;
+     background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+  border-radius: 20px;
+     margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+.pJ {
+    font-family: monospace;
+    font-size: 130%;
+     background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+  border-radius: 20px;
+     margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+.pS {
+    font-family: monospace;
+    font-size: 130%;
+     background: rgb(0, 0, 0, 0.3);
+  border: 1px solid grey;
+  border: 15px;
+  border-radius: 20px;
+     margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+.pA {
+    font-family: monospace;
+    font-size: 150%;
+     background: rgb(0, 0, 0, 0.1);
+  border: 1px solid grey;
+  border: 15px;
+  border-radius: 20px;
+     margin-right: auto;
+  margin-left: auto;
+  width: 90%;
+}
+p:hover {
+  color: white;
+}
+ 
+footer h4{
+  text-align: center;
+  color: black; 
+  }  
+#icons {
+  width: 20%;
+  margin: auto;
+}
+th {
+  width: 40px;
+  height: 40px;
+}
+.icon {
+  width:40px;
+  height: 40px;
+}
+.icon:hover {
+  width: 30px;
+  height: 30px;
+}
