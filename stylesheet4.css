@@ -204,7 +204,14 @@ h3 {
 p:hover {
   color: white;
 }
- 
+.text {
+	text-align: center;
+	font-family: bahnschrift;
+	font-size: 50px;
+	color: rgb(244, 200, 128);
+	margin: auto;
+	margin-top: 200px;
+}
 footer h4{
   text-align: center;
   color: black; 
