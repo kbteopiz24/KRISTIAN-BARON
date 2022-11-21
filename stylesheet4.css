@@ -206,25 +206,16 @@ th {
   border-radius: 10px;
   background-color: rgb(255, 255, 255, 0.8);
 }
-
 .content .address {
   margin: 0 auto;
   width: 100%;
   padding: 0px;
 }
-
-.content #profile {
-  width: 60%;
-  border-radius: 50%;
-  border: 10px solid black;
-}
-
 .content .address_info {
   width: 65%;
   text-align: left;
   font-family: calibri light;
 }
-
 .content li {
   list-style: none;
   font-size: 20px;
