@@ -212,6 +212,12 @@ p:hover {
 	margin: auto;
 	margin-top: 200px;
 }
+.text th:hover {
+	font-size: 30px;
+	color: #3c3830;
+	transform: 100vh;
+	transition: 0.4s;
+}
 footer h4{
   text-align: center;
   color: black; 
