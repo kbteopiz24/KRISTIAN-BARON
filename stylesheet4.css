@@ -119,7 +119,7 @@ h3 {
 
 .pE {
     font-family: monospace;
-    font-size: 130%;
+    font-size: 180%;
      background: rgb(0, 0, 0, 0.1);
   border: 1px solid grey;
   border: 15px;
@@ -130,7 +130,7 @@ h3 {
 }
 .pJ {
     font-family: monospace;
-    font-size: 130%;
+    font-size: 180%;
      background: rgb(0, 0, 0, 0.1);
   border: 1px solid grey;
   border: 15px;
@@ -141,7 +141,7 @@ h3 {
 }
 .pS {
     font-family: monospace;
-    font-size: 130%;
+    font-size: 180%;
      background: rgb(0, 0, 0, 0.3);
   border: 1px solid grey;
   border: 15px;
@@ -152,7 +152,7 @@ h3 {
 }
 .pA {
     font-family: monospace;
-    font-size: 150%;
+    font-size: 180%;
      background: rgb(0, 0, 0, 0.1);
   border: 1px solid grey;
   border: 15px;
