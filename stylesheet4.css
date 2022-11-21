@@ -220,3 +220,6 @@ th {
   list-style: none;
   font-size: 20px;
 }
+content:hover {
+  color: white;
+}
