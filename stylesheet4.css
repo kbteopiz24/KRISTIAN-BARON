@@ -152,13 +152,13 @@ p:hover {
 .text {
 	text-align: center;
 	font-family: bahnschrift;
-	font-size: 90px;
+	font-size: 110px;
 	color: rgb(244, 200, 128);
 	margin: auto;
 	margin-top: 200px;
 }
 .text th:hover {
-	font-size: 30px;
+	font-size: 50px;
 	color: #3c3830;
 	transform: 100vh;
 	transition: 0.4s;
