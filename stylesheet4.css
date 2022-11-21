@@ -116,47 +116,7 @@ h3 {
   color: black;
   font-style: monospace;
 }
-.p1 {
-  font-family: monospace;
-  font-size: 110%;
-   background: rgb(0, 0, 0, 0.1);
-  border: 1px solid grey;
-  border: 15px;
-  border-radius: 20px;
-    margin-right: auto;
-  margin-left: auto;
-  width: 90%;
-}     
-.p2 {
-    font-family: monospace;
-    font-size: 110%;
-     background: rgb(0, 0, 0, 0.1);
-  border: 1px solid grey;
-  border: 15px;
-     margin-right: auto;
-  margin-left: auto;
-  width: 90%;
-}     
-.p3 {
-    font-family: monospace;
-    font-size: 110%;
-     background: rgb(0, 0, 0, 0.1);
-  border: 1px solid grey;
-  border: 15px;
-      margin-right: auto;
-  margin-left: auto;
-  width: 90%;
-}     
-.p4 {
-    font-family: monospace;
-    font-size: 110%;
-     background: rgb(0, 0, 0, 0.1);
-  border: 1px solid grey;
-  border: 15px;
-     margin-right: auto;
-  margin-left: auto;
-  width: 90%;
-}
+
 .pE {
     font-family: monospace;
     font-size: 130%;
