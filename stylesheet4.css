@@ -216,4 +216,7 @@ th {
   list-style: none;
   font-size: 20px;
 }
-
+.carousel {
+  width:640px;
+  height:360px;
+}
