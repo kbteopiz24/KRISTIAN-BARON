@@ -79,7 +79,7 @@ nav {
        background: rgb(0, 0,0);
        background: rgba(0, 0, 0, 0);
       }
-      nav a {
+      nav barx {
         float: left;
         color: #464141;
         padding: 15px 20px;
@@ -88,7 +88,7 @@ nav {
         font-size: 20px;
         font-family: monospace;
       }
-      nav a:hover {
+      nav bar:hover {
         background-color: darkgray;
         color: black;
       }
