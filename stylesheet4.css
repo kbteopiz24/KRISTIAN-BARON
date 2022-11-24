@@ -92,6 +92,9 @@ nav {
         background-color: darkgray;
         color: black;
       }
+.nav bar logo {
+	width:20px
+}
 h1 {
   text-align: center;
   color: black;
