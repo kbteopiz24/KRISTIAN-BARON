@@ -93,11 +93,11 @@ nav {
         color: black;
       }
 .nav bar image {
-	padding top: 20px;
-        /*min-height: 20px;
-        min-width: 20px;*/
-	width: 20px;
-	height: 20px;
+	padding top: 100px;
+        /*min-height: 100px;
+        min-width: 100px;*/
+	width: 10px;
+	height: 10px;
 }
 h1 {
   text-align: center;
