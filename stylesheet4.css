@@ -92,12 +92,9 @@ nav {
         background-color: darkgray;
         color: black;
       }
-.nav bar image {
-	padding top: 100px;
-        /*min-height: 100px;
-        min-width: 100px;*/
-	width: 10px;
-	height: 10px;
+.navbar-brand img{
+	height: 40px;
+	padding-left: 20px
 }
 h1 {
   text-align: center;
