@@ -79,10 +79,9 @@ nav {
        background: rgb(0, 0,0);
        background: rgba(0, 0, 0, 0);
       }
-      nav barx {
+      nav bar {
         float: left;
         color: #464141;
-        padding: 15px 20px;
         text-align: center;
         text-decoration: none;
         font-size: 20px;
